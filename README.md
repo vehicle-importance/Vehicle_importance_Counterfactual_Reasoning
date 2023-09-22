@@ -15,9 +15,9 @@ This repository provides code for the following paper:
 
 # Content
 * [Setup](#setup)
-* [Data and models](#data-and-models)
+* [Download HOIST Dataset](#Download-HOIST-Dataset)
 * [Evaluation](#evaluation)
-* [Generation True and Counterfactual Trajectories *(Coming Soon)*]()
+* [Generating True and Counterfactual Trajectories *(Coming Soon)*]()
 * [Citation *(Coming Soon)*]()
 
 
@@ -32,7 +32,7 @@ conda activate annotation
 ```
 
 
-## Download HOIST dataset 
+## Download HOIST Dataset 
 You can download the HOIST dataset by executing:
 ``` bash
 chmod +x download_hoist.sh
@@ -119,6 +119,6 @@ You should see a directory structure like this.
     python get_consensus_score_pedestrians.py 
     ```
 
-## Data generation (Coming Soon)
+## Generating True and Counterfactual Trajectories (Coming Soon)
 
 ## Citation (Coming Soon)
