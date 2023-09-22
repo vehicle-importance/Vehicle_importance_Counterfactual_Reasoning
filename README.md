@@ -107,13 +107,13 @@ You should see a directory structure like this.
 6. `train_images.npy` contains the a small subset of the driving scenario used to develop the approach. The results in the paper are calculated using the remaining scenarios.
 
 ## Evaluation
-1. Quantitative results comparing our method with the baseline methods for the task of object importance estimation on the entire HOIST dataset (Table I in the paper) and for vehicles only (Table III in the paper). We report Avg. Precision Score, Optimal Threshold F1 Score and Optimal Threshold Accuracy values.
+1. Quantitative results comparing our method with the baseline methods for the task of object importance estimation on the **entire HOIST dataset** (Table I in the paper) and for **vehicles only** (Table III in the paper). We report Avg. Precision Score, Optimal Threshold F1 Score and Optimal Threshold Accuracy values.
 
     ```
     python get_consensus_score.py 
     ```
 
-2. Quantitative results comparing our method with the baseline methods for pedestrian importance estimation (Table IV in the paper). 
+2. Quantitative results comparing our method with the baseline methods for **pedestrian** importance estimation (Table IV in the paper). 
     
     ```
     python get_consensus_score_pedestrians.py 
