@@ -28,6 +28,7 @@ First, you have to install the conda environment.
 ``` bash
 git clone https://github.com/vehicle-importance/oiecr.git
 cd oiecr
+conda env create -f environment.yml
 conda activate annotation
 ```
 
