@@ -2,6 +2,7 @@
 
 
 **News**: \
+**1.10.2023:** We released the code to generate the counterfactual trajectories.
 **22.09.2023:** We released the code to reproduce the results in the paper.
 
 
@@ -120,6 +121,7 @@ You should see a directory structure like this.
     python get_consensus_score_pedestrians.py 
     ```
 
-## Generating True and Counterfactual Trajectories (Coming Soon)
+## Generating True and Counterfactual Trajectories
+The code for generating true and coutefactual trajectories is [here](https://github.com/vehicle-importance/generating_counterfactual_trajectories/).
 
 ## Citation (Coming Soon)
