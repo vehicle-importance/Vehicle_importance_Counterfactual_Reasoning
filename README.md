@@ -2,7 +2,7 @@
 
 
 **News**: \
-**1.10.2023:** We released the code to generate the counterfactual trajectories.
+**1.10.2023:** We released the code to generate the counterfactual trajectories. \
 **22.09.2023:** We released the code to reproduce the results in the paper.
 
 
@@ -18,7 +18,7 @@ This repository provides code for the following paper:
 * [Setup](#setup)
 * [Download HOIST Dataset](#Download-HOIST-Dataset)
 * [Evaluation](#evaluation)
-* [Generating True and Counterfactual Trajectories *(Coming Soon)*]()
+* [Generating True and Counterfactual Trajectories](#Generating-True-and-Counterfactual-Trajectories)
 * [Citation *(Coming Soon)*]()
 
 
